@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Please enter the invoice amount:");
-
+//aa
 double price = Convert.ToDouble(Console.ReadLine());
 double Priceafterdiscount;
 
